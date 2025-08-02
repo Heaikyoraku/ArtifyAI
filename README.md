@@ -1,7 +1,7 @@
 # ArtifyAI
 An AI-powered pipeline that enhances and transforms old images into realistic and artistic versions using GFPGAN, ControlNet, and Stable Diffusion.
 
-# f\Full project documentation & Code:
+# Full project documentation & Code:
 
 This repository contains the source code and final report for the ArtifyAI project, developed by my colleague and I as part of our Advanced Artificial Intelligence course.
 
