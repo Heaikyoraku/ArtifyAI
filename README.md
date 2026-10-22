@@ -1,5 +1,9 @@
 # ArtifyAI
 
+<p><img src="https://skillicons.dev/icons?i=py,pytorch&theme=dark" alt="Python · PyTorch · CodeFormer · CLIP · ControlNet · Stable Diffusion" height="34" /></p>
+<sub>Python · PyTorch · CodeFormer · CLIP · ControlNet · Stable Diffusion</sub>
+
+
 **Image restoration and structure-guided generative stylization**
 
 ArtifyAI takes an input image through a restoration and image-generation workflow. It combines facial detail recovery with style selection and edge-guided diffusion to produce an enhanced image and a stylized result.
